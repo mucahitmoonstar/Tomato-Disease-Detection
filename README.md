@@ -1,7 +1,7 @@
 **About Dataset**
 
 This dataset focuses on classifying tomato leaf images into distinct categories based on health and various diseases. Each class corresponds to either a specific disease affecting tomato plants or a healthy state of the plant. Below is a detailed explanation of each class:
-
+https://www.kaggle.com/datasets/ahmadzargar/tomato-leaf-disease-dataset-segmented
 Classes and Explanations
 
 **Bacterial Spot**
